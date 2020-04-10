@@ -1,0 +1,52 @@
+.{margin:0;
+padding:0;
+font-family:century gothic;
+}
+ header{
+	 background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(notepad+/gym5.jpg);
+	 height:100vh;
+	 background-position:center;
+	 background-size:cover;
+	 
+	 
+ }
+ .main p{
+	 text-align:center;
+	 text-decoration:bold;
+	 font-size:36px;
+	 color:#00CED1;
+	 position:absolute;
+	 top:40%;
+	 padding: 20px 20px 20px 20px ;
+ }
+ .main h1{
+	 
+	  position:absolute;
+	  top:20%;
+	  left:50%;
+	  transform:translate(-50%,-50%);
+	 
+  }
+  .main h1{
+	  color:#fff;
+	  font-size:70px;
+	 
+	 
+	 
+ }
+ .main h2{
+	 
+	  position:absolute;
+	  top:35%;
+	  left:50%;
+	  transform:translate(-50%,-50%);
+	 
+  }
+  .main h2{
+	  color:#FFE4B5;
+	  font-size:50px;
+	 
+	 
+	 
+ }
+ 

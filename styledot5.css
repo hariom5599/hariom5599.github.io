@@ -1,0 +1,19 @@
+.{margin:0;
+padding:0;
+font-family:century gothic;
+}
+ header{
+	 background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(notepad+/weight.jpg);
+	 height:100vh;
+	 background-position:center;
+	 background-size:cover;
+	 
+	 
+ }
+ .photo img{
+	float:center;
+	 height:auto;
+	 padding-left:400px;
+	 padding-top:50px;
+ }
+ 
